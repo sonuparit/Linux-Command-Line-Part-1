@@ -58,10 +58,10 @@
 >
 > **Common options**
 >
-> -   *`-l`* = Long listing format\
-> -   *`-i`* = Shows inode numbers (useful for checking links)\
-> -   *`-a`* = Shows all files (including hidden)\
-> -   *`-d`* = Shows directory itself (best used with *`-ld`*)\
+> -   *`-l`* = Long listing format  
+> -   *`-i`* = Shows inode numbers (useful for checking links)  
+> -   *`-a`* = Shows all files (including hidden)  
+> -   *`-d`* = Shows directory itself (best used with *`-ld`*)  
 > -   *`-A`* = Shows hidden files except `.` and `..`
 >
 > **Interesting** -- Try `ll` (if available) for long listing
