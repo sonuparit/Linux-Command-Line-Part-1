@@ -73,11 +73,7 @@
 
 # 
 
-> `less <file_name>` :- Views file content page by page (very useful)
->
-> **Common options**
->
-> -   *`-f`* = Follow mode (useful for debugging logs)
+> `less <file_name>` :- Views file content page by page (very useful)  
 >
 > **Inside `less`**
 >
