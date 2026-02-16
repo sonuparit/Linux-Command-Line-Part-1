@@ -81,15 +81,15 @@
 >
 > **Inside `less`**
 >
-> -   *`/`* = Search forward\
-> -   `?` = Search backward\
-> -   `f` \| `<space>` = Forward one screen\
-> -   `b` = Backward one screen\
-> -   *`n`* = Next match\
-> -   *`p`* = Previous match\
-> -   *`g`* = Go to beginning of file\
-> -   *`G`* = Go to end of file\
-> -   *`h`* = Show help\
+> -   *`/`* = Search forward  
+> -   `?` = Search backward  
+> -   `f` | `<space>` = Forward one screen  
+> -   `b` = Backward one screen  
+> -   *`n`* = Next match  
+> -   *`p`* = Previous match  
+> -   *`g`* = Go to beginning of file  
+> -   *`G`* = Go to end of file  
+> -   *`h`* = Show help  
 > -   *`q`* = Quit
 
 # 
